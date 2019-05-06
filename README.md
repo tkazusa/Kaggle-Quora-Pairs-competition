@@ -32,6 +32,8 @@ jupyter lab --ip 0.0.0.0 --allow-root
 ```
 
 ## What you learn from this kernel
-
+- Embedding text using pre-trained model word2vec
+- Metrix learning using MaLSTM, SiameseNet architecture.
 
 ## References
+- [How to predict Quora Question Pairs using Siamese Manhattan LSTM](https://medium.com/mlreview/implementing-malstm-on-kaggles-quora-question-pairs-competition-8b31b0b16a07)
