@@ -1,8 +1,6 @@
 # Kaggle Quora Pairs competition
 A brief solution for [Kaggle Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs).
 
-コールバック書かなきゃ
-
 ## Requirements
 - docker >= 17.03
 
