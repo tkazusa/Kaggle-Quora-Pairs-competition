@@ -20,6 +20,8 @@ RUN pip3 install \
 COPY requirements.txt requirements.txt
 RUN pip3 install -r requirements.txt
 
+COPY notebooks/ /root/
+
 EXPOSE 8888
 
 CMD ["/bin/bash"]
